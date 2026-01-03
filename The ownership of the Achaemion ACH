@@ -1,0 +1,40 @@
+# Achaemion (ACH) Token
+
+Official repository for the Achaemion (ACH) token, including
+on-chain ownership verification and project reference information.
+
+This repository is created for transparency, compliance,
+and centralized exchange (CEX) due diligence purposes.
+
+---
+
+## 🌐 Network Information
+- Blockchain: Arbitrum One
+- Token Standard: ERC-20
+- Decimals: 18
+
+---
+
+## 📄 Smart Contract Details
+- Token Name: Achaemion
+- Symbol: ACH
+- Contract Address:
+  0x97E30f9621CE9024ea4C33dB54eF7cAe68aA61fc
+- Total Supply: 100,000,000 ACH
+
+---
+
+## ✅ Ownership Verification (Arbiscan)
+
+The ownership of the ACH smart contract has been cryptographically
+verified using Arbiscan Message Signature verification.
+
+### Verified Owner Address
+0xb73997c19722ace8fa3b4178301d1828bc89e9e9
+
+### Arbiscan Verification
+- Verification Type: Message Signature
+- Verification ID: #3490
+- Status: Verified ✅
+
+### Signed Message
